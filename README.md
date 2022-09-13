@@ -13,6 +13,6 @@ With the help of developed automated processing scripts, selections and generali
 **BASE** - R-project for collecting and cleaning of a data
 **1** - RShiny-project for analyze of collected data
 ## Author and developer
-**Professor Mykola Karchevskyi
-**comcriminal@gmail.com
-**https://karchevskiy.org/
+**Professor Mykola Karchevskyi**
+**comcriminal@gmail.com**
+**https://karchevskiy.org/**
