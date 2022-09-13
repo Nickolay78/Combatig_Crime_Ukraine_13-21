@@ -11,6 +11,7 @@ Data cleaning scripts were developed based on the analysis of the features of th
 With the help of developed automated processing scripts, selections and generalizations for further visualizations were created from 'clean' data
 ### Content of the repository
 **BASE** - R-project for collecting and cleaning of a data
+
 **1** - RShiny-project for analyze of collected data
 ## Author and developer
 **Professor Mykola Karchevskyi**
