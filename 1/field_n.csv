@@ -1,0 +1,118 @@
+﻿field;nfield
+Article;Number of the article
+nazva;Name of the article 
+Year;Year
+Chapter;Chapter
+ChapterTXT;Name of the chapter
+ACC;Criminal offenses have been recorded
+SUSP;Criminal offenses in which persons have been presented a notice of suspicion
+INDICM;Proceedings were sued to the court with an indictment
+REL;The proceedings were sued to the court with a petition for condoning from criminal liability
+MED;The proceedings were sued to the court with a petition for the application of coercive measures of a medical nature
+EDU;The proceedings were sued to the court with a petition to apply coercive measures of an educational nature
+RECID;Completed proceedings regarding offenses committed by persons who previously committed criminal offenses
+GROUP;Completed proceedings regarding offenses committed by a group of persons
+INTOX;Completed proceedings regarding offenses committed by persons under the state of physical drunkenness
+JUVEN;Completed proceedings regarding offenses committed by or involving minors
+CRTOT;Persons whose verdicts (resolutions) have entered into a legal force
+CONVIC;Convicted persons
+ACQUIT;Acquitted persons
+CMED;Non-convicts to whom coercive measures of a medical nature have been applied
+CCLOSE;Cases have been closed ( in all)
+CONFES;Cases have been closed due to sincere remorse
+RECONC;The cases have been closed due to reconciliation between the perpetrator and the victim
+CIRCUMS;Cases have been closed because of the change of the situation
+SPONS;Cases have been closed due to bail of a person 
+AMNESTY;Cases have been closed due to amnesty
+DEATH;Cases have been closed because of death
+COTHER;Cases have been closed for other reasons
+SAMEVERD;Cases have been closed because there is a verdict or a decision to close criminal proceedings on the same charge
+CNOTCR;Cases have been closed due to the lack of event, composition of the crime or the lack of the evidence of accusation
+DENOPR;Cases have been closed in connection with the refusal of the prosecutor or the victim, his representative from prosecution in criminal proceedings
+CEDU;Cases have been closed in connection with the use of coercive measures of an educational nature against a minor
+LIFEIMP;Sentenced to life imprisonment
+IMP;Imprisonment for a certain period of time was imposed
+IMP1;Imprisonment for 1 year
+IMP12;Imprisonment for a period of more than 1 year to 2 years inclusive
+IMP23;Imprisonment for a period of more than 2 years to 3 years inclusive
+IMP35;Imprisonment for a period of more than 3 years to 5 years inclusive
+IMP510;Imprisonment for a period of more than 5 years to 10 years inclusive
+IMP1015;Imprisonment for a period of more than 10 years to 15 years inclusive
+IMP1525;Imprisonment for a period of more than 15 years to 25 years inclusive
+RESTOL;Limitation of imprisonment has been assigned
+DISBAT;Detention in the disciplinary battalion has been assigned
+ARREST;An arrest has been assigned
+CORRW;Remedial works have been assigned
+SRVRSTR;A service restriction has been assigned to the military personnel
+PUBLW;Public works have been assigned
+FINE;A fine has been imposed
+DEPR;Deprivation of the right to hold certain positions or engage in certain activities has been assigned
+PROB;Released from punishment on probation
+RELAMN;Released from punishment as a result of the amnesty act  
+RELOTHR;Released from punishment from other reasons
+G1;Total  convicted persons
+G2;The citizens of Ukraine have been convicted
+G3;The citizens of other state have been convicted
+G4;Women have been convicted
+G5;Convicted for offences committed by a group of people
+G6;Convicted for offences committed by an organized group
+G7;Convicted for offences committed by a criminal organization
+G8;Convicted for offences committed under the state of alcohol intoxication
+G9;Convicted for offences committed under the state of drug intoxication
+G10;Convicted for offences committed at the age from 14 to 16
+G11;Convicted for offences committed at the age from 16 to 18
+G12;Convicted for offences committed at the age from 18 to 25
+G13;Convicted for offences committed at the age from 25 to 30
+G14;Convicted for offences committed at the age from 30 to 50
+G15;Convicted for offences committed at the age from 50 to 65
+G16;Convicted for offences committed at the age from 65 and older
+G17;Employment of the convicted at the moment of committing offences - workers
+G18;Employment of the convicted at the moment of committing offences – state officials 
+G19;Employment of the convicted at the moment of committing offences – other employees
+G20;Employment of the convicted at the moment of committing offences - servicemen
+G21;Employment of the convicted at the moment of committing offences - doctors, pharmacists
+G22;Employment of the convicted at the moment of committing offences – teachers, lecturers
+G23;Employment of the convicted at the moment of committing offences – mass media workers
+G24;Employment of the convicted at the moment of committing offences – private entrepreneurs 
+G25;Employment of the convicted at the moment of committing offences - workers of business associations
+G26;Employment of the convicted at the moment of committing offences – students of schools, lyceums, colleges, gymnasia
+G27;Employment of the convicted at the moment of committing offences – students of educational institutions
+G28;Employment of the convicted at the moment of committing offences - other occupations
+G29;Employment of the convicted at the moment of committing offences - pensioners including invalids
+G30;Employment of the convicted at the moment of committing offences - unemployed
+G31;Employment of the convicted at the moment of committing offences – employable people who did not work and did not study
+G32;Convicted employable people who did not work and did not study and did not have eradicated and previous convictions ( from gr.31)
+G33;Employment of the convicted at the moment of committing offences – minors to 16 who did not work and did not study
+G34;Employment of the convicted at the moment of committing offences – detained in the agency of the execution of punishment, under a guard
+G35;Education at the time of committing offences – complete higher
+G36;Education at the time of committing offences – basic higher
+G37;Education at the time of committing offences – vocational 
+G38;Education at the time of committing offences – complete general secondary
+G39;Education at the time of committing offences – basic general secondary
+G40;Education at the time of committing offences – primary general
+G41;Education at the time of committing offences – uneducated
+G42;Convicted people who committed crime before but were exempt from criminal liability
+G43;Convicted people who were sued but were acknowledged such who do not have a criminal record
+G44;Convicted people who were sued but their criminal record was removed or cancelled
+G45;Convicted people who do not have removed or cancelled criminal record
+G46;Convicted people who have one criminal record
+G47;Convicted people who have two criminal records
+G48;Convicted people who have three or more  criminal records
+G49;Convicted people who have a criminal record for offences against person’s life or health 
+G50;Convicted people who have a criminal record for offences against sexual freedom and sexual inviolability of a person
+G51;Convicted people who have a criminal record for offences against property
+G52;Convicted people who have a criminal record for offences against safety of motion and transport operation
+G53;Convicted people who have a criminal record for offences against public order, morality
+G54;Convicted people who have a criminal record for offences related to the drugs
+G55;Convicted people who have a criminal record for other criminal offences
+G56;Convicted people who have a criminal record and served sentence fully 
+G57;Convicted people who have a criminal record and were exempt from punishment (total)
+G58;Convicted people who have a criminal record and were exempt from punishment on parole
+G59;Convicted people who have a criminal record and were exempt from punishment due to amnesty
+G60;Convicted people who have a criminal record and were exempt from punishment from other reasons
+G61;Convicted people who have a criminal record and committed a crime not serving their sentence (total)
+G62;Convicted people who have a criminal record and committed a crime not serving their sentence  as imprisonment or limitation of imprisonment or arrest
+G63;Convicted people who have a criminal record and committed a crime in places of detention or limitation of imprisonment or arrest
+G64;Convicted people who have a criminal record and committed a crime during the probation period
+G65;Convicted people who have a criminal record and committed a crime during the period of serving other sentence
+                     ;                     
